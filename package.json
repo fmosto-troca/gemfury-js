@@ -1,0 +1,11 @@
+{
+    "name": "gemfury-js-test",
+    "version": "0.1.0",
+    "description": "GemFury JS Test",
+    "engines": {
+        "node": ">=12.*"
+    },
+    "dependencies": {
+        "underscore": "1.9.*"
+    }
+}
